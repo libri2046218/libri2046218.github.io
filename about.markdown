@@ -1,9 +1,10 @@
 ---
-layout: home
-title: Home
-permalink: /
+layout: single
+title: About
+permalink: /about/
 author_profile: true
 classes: wide
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam interdum orci non ante ornare molestie. Maecenas a diam ipsum. Ut semper ipsum tellus, nec pulvinar nulla consequat vel. Quisque consectetur in mi sit amet volutpat. Etiam rhoncus sapien tincidunt, interdum nulla ut, venenatis leo. Nam non sollicitudin magna. Sed vel vehicula nunc. Aenean sem lectus, venenatis non vehicula vel, scelerisque vel tortor. Morbi in ultrices ligula. Quisque quis lacus ac metus pretium vehicula. Donec blandit fringilla convallis. Cras feugiat non arcu nec varius. Vivamus iaculis, lacus non tincidunt vulputate, massa ex scelerisque velit, in semper tortor tortor at neque.

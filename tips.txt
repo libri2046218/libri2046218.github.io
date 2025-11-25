@@ -1,0 +1,2 @@
+START SITE LOCAL:
+bundle exec jekyll serve
